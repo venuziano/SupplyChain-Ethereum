@@ -1,3 +1,8 @@
 # SupplyChain-Ethereum
 
-first smart contract developed by using solidity, vscode, js, node.js and azure vm blockchain eth
+Smart contract develop to simulate a supply chain.
+
+Technologies:
+
+Solidity, JavaScript, Node.js and Azure VM with a node of ETH Blockchain.
+
